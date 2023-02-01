@@ -1,0 +1,1 @@
+ssh -i "tjsManager_key.pem" ubuntu@54.180.125.89
